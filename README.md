@@ -5,7 +5,7 @@ This repository contains code and documentation for the analysis and prediction 
 
 # Requirements  
 MATLAB platform installed on your machine.  
-Extract the sqlite database called "database.sqlite" from the "database.sqlite.zip" ZIP archive provided OR download the sqlite database from https://www.kaggle.com/datasets/hugomathien/soccer and name it as "database.sqlite".  
+Extract the sqlite database called "database.sqlite" from the "database.rar" ZIP archive provided OR download the sqlite database from https://www.kaggle.com/datasets/hugomathien/soccer and name it as "database.sqlite".  
 Approximately 306Mb of disk space.
 
 # Key Features:  
