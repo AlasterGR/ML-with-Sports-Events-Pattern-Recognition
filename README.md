@@ -3,6 +3,11 @@ MATLab Code, documentation and images of Machine Learning on Pattern Recognition
 
 This repository contains code and documentation for the analysis and prediction of sports events using machine learning algorithms. The project focuses on applying machine learning techniques, particularly neural networks, for predicting the outcomes of football matches based on various team attributes and betting odds.
 
+# Requirements  
+MATLAB platform installed on your machine.  
+Extract the sqlite database called "database.sqlite" from the "database.sqlite.zip" ZIP archive provided OR download the sqlite database from https://www.kaggle.com/datasets/hugomathien/soccer and name it as "database.sqlite".  
+Approximately 306Mb of disk space.
+
 # Key Features:  
 Implementation of linear and multilayer neural network classifiers for match outcome prediction.  
 Analysis of team attributes and betting odds data from the provided SQLite database.  
