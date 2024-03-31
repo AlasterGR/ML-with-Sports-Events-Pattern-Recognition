@@ -1,5 +1,6 @@
 # ML-with-Sports-Events-Pattern-Recognition
-MATLab Code, documentation and images of Machine Learning on Pattern Recognition for predicting the outcomes of football matches.
+MATLab Code, documentation and images of Machine Learning on Pattern Recognition for predicting the outcomes of football matches.  
+Currently in Greek, it is part of the course "Pattern Recognition", on the MSc "Informatics" by University of Piraeus.
 
 This repository contains code and documentation for the analysis and prediction of sports events using machine learning algorithms. The project focuses on applying machine learning techniques, particularly neural networks, for predicting the outcomes of football matches based on various team attributes and betting odds.
 
