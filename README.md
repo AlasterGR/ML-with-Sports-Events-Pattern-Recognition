@@ -2,7 +2,10 @@
 MATLab Code, documentation and images of Machine Learning on Pattern Recognition for predicting the outcomes of football matches.  
 Currently in Greek, it is part of the course "Pattern Recognition", on the MSc "Informatics" by University of Piraeus.
 
-This repository contains code and documentation for the analysis and prediction of sports events using machine learning algorithms. The project focuses on applying machine learning techniques, particularly neural networks, for predicting the outcomes of football matches based on various team attributes and betting odds.
+This repository contains code and documentation for the analysis and prediction of sports events using machine learning algorithms. The project focuses on applying machine learning techniques, particularly neural networks, for predicting the outcomes of football matches based on various team attributes and betting odds.  
+
+The provided Answers.rar archive unzips into three folders, each containing the answers of the relevant part of the assignment. These answers can be cross-referenced both during the execution of the code and the written technical report.  
+The answer to the fourth and final part of the assignment can be viewed only during the execution of the code and the written technical report
 
 # Requirements  
 MATLAB platform installed on your machine.  
